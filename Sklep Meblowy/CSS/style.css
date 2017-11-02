@@ -291,7 +291,7 @@ span.tlo2 {
  border-bottom: 8px solid rgb(36, 186, 159);
  width: 30%;
  text-transform: uppercase;
- padding: 15px 0px 5px 0px;
+ padding: 15px 0 5px 0;
  margin-bottom: 95px;
  margin-top: 35px;
  font-size: 23px;
@@ -407,7 +407,7 @@ input#chair {
   width: 4px;
   padding: 12px 20px;
   display: inline-block;
-  border: 1px solid #C0EADF;*/
+  border: 1px solid #C0EADF;
   margin-left:10px;
 }
 
@@ -421,7 +421,7 @@ input + label {
     height: 40px;
     width: 45px;
     display:inline-block;
-    padding: 0 0 0 0px;
+    padding: 0 0 0 0;
     border: 1px solid rgb(36, 186, 159);
 }
 
@@ -431,7 +431,7 @@ input:checked + label {
     height: 40px;
     width: 45px;
     display:inline-block;
-    padding: 0 0 0 0px;
+    padding: 0 0 0 0;
 }
 
 input.button {
