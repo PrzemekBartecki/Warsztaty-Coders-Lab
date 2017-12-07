@@ -1,6 +1,7 @@
-# Warsztaty-Coders-Lab
-## Efekt Warsztatów z kursu Front-End : WordPress - Coders Lab
-W tym repozytorium będe zamiszczał efekty swojej pracy w ramach wspomnianego kursu.
+# Workshops-Coders-Lab
+## Workshop effect from Front-End: WordPress - Coders Lab
+In this repository I will harness the results of my work as part of this course.
 
 1. Sklep Meblowy
-Jest efektem pracy po pierwszym tygodniu warsztatów.
+It is the result of work after the first week of the workshop.
+
